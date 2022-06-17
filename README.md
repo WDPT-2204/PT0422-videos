@@ -39,3 +39,6 @@
 - [ExpressJS & Mongoose | CRUD 2: Update](https://ironhack.zoom.us/rec/share/8K8GNurMJcqMmJK65-i9iZ_xoSFQprfkZqUbKYuI4e0VvG46os4-KvnDxVDZHb3-.c6xWNZd8RXRKs59C?startTime=1654797371000)
 - [ExpressJS & Mongoose | CRUD 3: Delete](https://ironhack.zoom.us/rec/share/8K8GNurMJcqMmJK65-i9iZ_xoSFQprfkZqUbKYuI4e0VvG46os4-KvnDxVDZHb3-.c6xWNZd8RXRKs59C?startTime=1654793149000)
 - [ExpressJS & Mongoose | CRUD 3: Model relations & populate](https://ironhack.zoom.us/rec/share/WB7clSPe63K-w-zSC64bDEV4P-v_UF7Q-NDSsX7XFXi6AdzkFW1wbk6JK_soHbic.xpwZzVtUfrE-wVuL?startTime=1654936689000)
+- [Authentication] 
+(https://ironhack.zoom.us/rec/share/_3P3GkeXaBCTQw5QcY09agJPjIbEbpMhu4i5yG4js_Ex5wNES81GF7TzcoQw8Txl.QKh3z17qqxnlhBCw?startTime=1655397544000
+)
