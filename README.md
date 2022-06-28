@@ -42,3 +42,5 @@
 - [LAB Review | Mongoose movies & celebrities](https://ironhack.zoom.us/rec/share/VCD1BjQ3eB8yFVFE4gKrOsm_3MFOkOEAlvX1AOGfYuDbGukVHmXar9NriIX6i523._ZFecGhGZFDBkyTT?startTime=1655225430000)
 - [ExpressJS & Mongoose | CRUD 4: Authentication](https://ironhack.zoom.us/rec/share/_3P3GkeXaBCTQw5QcY09agJPjIbEbpMhu4i5yG4js_Ex5wNES81GF7TzcoQw8Txl.QKh3z17qqxnlhBCw?startTime=1655397544000)
 - [Module 2 review](ttps://ironhack.zoom.us/rec/share/JDOPGyCeXSw_xJeTdhEOjeK0C12od-Egn6ik-F-EP3XohABHsulNGdeNBUv9vuz8.COO6WAPxdGU_8bNA?startTime=1655829465000)
+- [Clase git colaborativo](https://ironhack.zoom.us/rec/share/gpXfaM4WvGHYITgbTs071Q3553cxmCzcnc0CVE4OZKtaEZs910ZD_k9c2LFMFbYC.zP8tVO7SKLNhris-?startTime=1656145275000)
+- [Deploy proyecto](https://ironhack.zoom.us/rec/share/gpXfaM4WvGHYITgbTs071Q3553cxmCzcnc0CVE4OZKtaEZs910ZD_k9c2LFMFbYC.zP8tVO7SKLNhris-?startTime=1656156627000)
