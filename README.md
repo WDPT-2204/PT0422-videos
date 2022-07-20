@@ -44,3 +44,4 @@
 - [Module 2 review](ttps://ironhack.zoom.us/rec/share/JDOPGyCeXSw_xJeTdhEOjeK0C12od-Egn6ik-F-EP3XohABHsulNGdeNBUv9vuz8.COO6WAPxdGU_8bNA?startTime=1655829465000)
 - [Clase git colaborativo](https://ironhack.zoom.us/rec/share/gpXfaM4WvGHYITgbTs071Q3553cxmCzcnc0CVE4OZKtaEZs910ZD_k9c2LFMFbYC.zP8tVO7SKLNhris-?startTime=1656145275000)
 - [Deploy proyecto](https://ironhack.zoom.us/rec/share/gpXfaM4WvGHYITgbTs071Q3553cxmCzcnc0CVE4OZKtaEZs910ZD_k9c2LFMFbYC.zP8tVO7SKLNhris-?startTime=1656156627000)
+- [Higher order functions and closures](https://ironhack.zoom.us/rec/share/Mnbb37Vt1GPhxxISxXAynb3rRNSJHMOvtveG6I0gZJyN7s4PuNppKoxJImtRyO_s.lqnCEWwWMsi7vEVT?startTime=1658254400000)
