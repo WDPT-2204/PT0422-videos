@@ -50,3 +50,4 @@
 - [Higher order functions and closures](https://ironhack.zoom.us/rec/share/Mnbb37Vt1GPhxxISxXAynb3rRNSJHMOvtveG6I0gZJyN7s4PuNppKoxJImtRyO_s.lqnCEWwWMsi7vEVT?startTime=1658254400000)
 - [React foundations: useState](https://ironhack.zoom.us/rec/share/kpTP-s1a5jbnLcQRlqDtPqAOL3PJC_Rsv6_ZBMEL925nuBBGEkPs_0iFmaj6kRJ7.qdDDDgYYXszOu59u?startTime=1658565190000)
 - [React foundations: Props](https://ironhack.zoom.us/rec/share/kpTP-s1a5jbnLcQRlqDtPqAOL3PJC_Rsv6_ZBMEL925nuBBGEkPs_0iFmaj6kRJ7.qdDDDgYYXszOu59u?startTime=1658574223000)
+- [React foundations: Lists and conditional rendering](https://ironhack.zoom.us/rec/share/jOu1v8r7VTOoqWw73KyjlGFciK9xhKPYZ-hI4-UO33DAgfPmUPRuCbiH0sYwnsxP.eamM6VVEQj1Z1MXH?startTime=1658853565000)
